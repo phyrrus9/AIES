@@ -6,4 +6,4 @@ I have some .bat files for file generation for testing. The system requires freq
 
 
     I do not remember what files to what, I will go through 
-    hem eventually and update this with their functions. 
+    them eventually and update this with their functions. 
