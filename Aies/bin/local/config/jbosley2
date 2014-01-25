@@ -1,0 +1,60 @@
+
+    # # # [2013-04-11 01:26:46.125000] # # #
+
+Machine: JBOSLEY2 
+Input given: THE COMPUTER IS HAVING ISSUES BOOTING. THE COMPUTER WILL NOT GET PAST THE BIOS SCREEN. ONCE IT GETS TO THE BIOS SCREEN, THE COMPUTER REBOOTS.  
+HSCORE : 0.0 
+VSCORE : 0.0 
+Input Diagnosis : Tied Score 
+
+                # # # [ END ] # # # 
+ 
+ 
+
+    # # # [2013-04-11 01:28:31.665000] # # #
+
+Machine: JBOSLEY2 
+Input given: FLASHING SCREEN, AND WONT BOOT 
+HSCORE : 0.0361445783133 
+VSCORE : 0.0 
+Input Diagnosis : Hardware 
+
+                # # # [ END ] # # # 
+ 
+ 
+
+    # # # [2013-04-11 01:35:22.049000] # # #
+
+Machine: JBOSLEY2 
+Input given: HAVING ISSUES BOOTING. WHEN STARTING UP, THE COMPUTER CRASHES BEFORE THE BIOS SCREEN IS LOADED. 
+HSCORE : 0.0903614457831 
+VSCORE : 0.0180722891566 
+Input Diagnosis : Hardware 
+
+                # # # [ END ] # # # 
+ 
+ 
+
+    # # # [2013-04-11 01:36:42.766000] # # #
+
+Machine: JBOSLEY2 
+Input given: THE COMPUTER NOW BOOTS, BUT IT IS VERY SLOW. A LOT OF PROGRAMS POP UP, AND THE COMPUTER CRASHES AFTER A FEW MINUTES.  
+HSCORE : 0.0542168674699 
+VSCORE : 0.0542168674699 
+Input Diagnosis : Tied Score 
+
+                # # # [ END ] # # # 
+ 
+ 
+
+    # # # [2013-04-11 01:41:26.095000] # # #
+
+Machine: JBOSLEY2 
+Input given:  
+HSCORE : 0.0 
+VSCORE : 0.0 
+Input Diagnosis : Tied Score 
+
+                # # # [ END ] # # # 
+ 
+ 
