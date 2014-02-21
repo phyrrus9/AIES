@@ -5,5 +5,5 @@ I have some .bat files for file generation for testing. The system requires freq
 
 
 
-    I do not remember what files to what, I will go through 
+    I do not remember what files do what, I will go through 
     them eventually and update this with their functions. 
